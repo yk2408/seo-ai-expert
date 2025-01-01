@@ -84,7 +84,7 @@ with st.sidebar:
     st.write(f"**Name:** {user_name}")
     st.write(f"**Email:** {user_email}")
 
-st.header("LangChain🦜🔗 Udemy Course- Helper Bot")
+st.header("LangChain🦜🔗 SEO Expert Bot")
 
 # Initialize session state
 if "chat_answers_history" not in st.session_state:
